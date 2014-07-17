@@ -25,7 +25,7 @@ namespace mappy
         public static readonly string DEFAULT_SIG_ZONE_SHORT = "5f5ec38b0cf5";
         public static readonly string DEFAULT_SIG_SPAWN_START = "<<8b3e3bfb74128bcfe8";
         public static readonly string DEFAULT_SIG_SPAWN_END = "891e83c60481fe";
-        public static readonly string DEFAULT_SIG_MY_ID = "8B8EA800000051B9";
+        public static readonly string DEFAULT_SIG_MY_ID = ">>8B8E??00000051B9";
         public static readonly string DEFAULT_SIG_MY_TARGET = "8946188b0d????????85c9";
         //public static readonly string DEFAULT_SIG_MY_TARGET = "3ac3a1????????8a4838"; //target was the only one to break last patch. including this backup just in case it happens again.
 
